@@ -3,9 +3,9 @@ project(ChessAI)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(ChessAI main.cpp
-        Board.cpp
-        Board.hpp
-        types.hpp
-        NegaMax.cpp
-        MoveGen.cpp)
+add_executable(ChessAI src/main.cpp
+        src/Board.cpp
+        src/Board.hpp
+        src/types.hpp
+        src/NegaMax.cpp
+        src/MoveGen.cpp)
