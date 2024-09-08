@@ -1,3 +1,0 @@
-/home/berkay/CLionProjects/ChessAI/cmake-build-debug/CMakeFiles/ChessAI.dir
-/home/berkay/CLionProjects/ChessAI/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/berkay/CLionProjects/ChessAI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
